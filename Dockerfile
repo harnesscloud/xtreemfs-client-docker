@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM phusion/baseimage
 MAINTAINER Christoph Kleineweber <kleineweber@zib.de>
 
 ENV DEBIAN_FRONTEND noninteractive
